@@ -514,7 +514,7 @@ $students_query_result->free(); // Free the student result set
     <?php endif; ?>
 
     <div class="action-buttons">
-        <a href="index.php" style="text-decoration: none;">
+        <a href="intex.php" style="text-decoration: none;">
             <button type="button" class="back-to-mark-btn">Mark Attendance</button>
         </a>
 
