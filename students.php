@@ -176,7 +176,7 @@ $conn->close();
                 <?php endforeach; ?>
             </tbody>
         </table>
-        <a href="index.php" style="text-decoration: none;">
+        <a href="intex.php" style="text-decoration: none;">
           <center>  <button1 type="submit" class="back-to-mark-btn"> back to Mark Attendance</button></center>
         </a>
     </div>
