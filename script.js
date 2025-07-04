@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // ✅ Check if the user is a Regular User
         if (storedPassword && enteredPassword === storedPassword) {
-            window.location.href = "http://localhost/wp1b/index.php";
+            window.location.href = "http://localhost/wp1b/intex.php";
         } else {
             // 🔴 Show Bootstrap Alert
             errorAlert.style.display = "block";
